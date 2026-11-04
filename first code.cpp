@@ -4,7 +4,7 @@
 
 using namespace std;
 
-// ================= GLOBAL =====================
+// ================= GLOBAL ==============
 string currentUser;
 string taskFileName;
 
